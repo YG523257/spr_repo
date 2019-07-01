@@ -17,7 +17,6 @@ eureka:
 
 zuul:
   retryable: true
-  sensitive-headers: 
     
 ribbon:
   ConnectTimeout: 1000
